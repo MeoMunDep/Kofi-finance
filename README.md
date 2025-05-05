@@ -1,1 +1,1 @@
-# Kofi-finance
+If you want to support me to do more scripts you know what to do  ^^
