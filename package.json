@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "@aptos-labs/ts-sdk": "^1.7.0",
-    "chalk": "^4.1.2",
+    "meo-forkcy-colors": "^1.0.8",
     "date-fns": "^2.30.0",
     "dotenv": "^16.3.1"
   },
