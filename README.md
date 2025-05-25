@@ -1,1 +1,9 @@
-If you want to support me to do more scripts you know what to do  ^^
+💼 Contact & Purchase
+
+🔹 Buy Now: [Telegram](https://t.me/meomundep)
+
+🔹 Fast & Direct – No Unnecessary Talk or Silly Question.
+
+📌 Serious buyers only. Let's keep it professional! 🚀
+
+🌐 [Kofi Finance Link](https://kofi.finance/)
